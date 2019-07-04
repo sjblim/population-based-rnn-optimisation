@@ -1,6 +1,6 @@
-# Population-based Global Optimisation Methods for Training RNNs to Learn Long-term Dependencies
+# Population-based Global Optimisation Methods for RNN Training
 
-Include a basic Evolution Strategy and particle swarm optimisation as an alternative to gradient based methods.
+Include a basic Evolution Strategies and Particle Swarm Optimisation as an alternative to gradient based methods.
 
-Key Reference: 
+**Key Reference:** 
 > Population-based Global Optimisation Methods for Learning Long-term Dependencies with RNNs. Bryan Lim, Stefan Zohren, and Stephen Roberts. 2019 ICML Time Series Workshop.
